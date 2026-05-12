@@ -1,0 +1,27 @@
+order_id,customer_id,customer_name,customer_segment,city,state,order_date,ship_date,status,payment_method,product_id,product_name,category,sub_category,quantity,unit_price,discount_pct,gross_amount,discount_amount,net_revenue,total_cost,gross_profit,delivery_days
+101,1,Ravi Kumar,VIP,Hyderabad,Telangana,2023-01-10,2023-01-14,Delivered,Credit Card,1,iPhone 14,Electronics,Smartphones,1,79999,0.00,79999.00,0.00,79999.00,65000.00,14999.00,4
+101,1,Ravi Kumar,VIP,Hyderabad,Telangana,2023-01-10,2023-01-14,Delivered,Credit Card,3,Sony Headphones WH,Electronics,Audio,2,14999,0.00,29998.00,0.00,29998.00,18000.00,11998.00,4
+102,2,Priya Sharma,Regular,Mumbai,Maharashtra,2023-02-05,2023-02-09,Delivered,UPI,5,Nike Running Shoes,Apparel,Footwear,1,8999,0.05,8999.00,449.95,8549.05,5000.00,3549.05,4
+102,2,Priya Sharma,Regular,Mumbai,Maharashtra,2023-02-05,2023-02-09,Delivered,UPI,6,Levi's Jeans 511,Apparel,Clothing,2,3999,0.05,7998.00,399.90,7598.10,4000.00,3598.10,4
+103,3,Arjun Nair,New,Bangalore,Karnataka,2023-02-20,2023-02-25,Returned,Debit Card,4,Dell Laptop 15,Electronics,Laptops,1,65000,0.00,65000.00,0.00,65000.00,50000.00,15000.00,5
+104,4,Sneha Patel,Regular,Ahmedabad,Gujarat,2023-03-15,2023-03-18,Delivered,UPI,7,Instant Pot 6Qt,Home & Kitchen,Appliances,1,8500,0.10,8500.00,850.00,7650.00,5500.00,2150.00,3
+104,4,Sneha Patel,Regular,Ahmedabad,Gujarat,2023-03-15,2023-03-18,Delivered,UPI,8,Bosch Mixer Pro,Home & Kitchen,Appliances,1,6999,0.10,6999.00,699.90,6299.10,4500.00,1799.10,3
+105,5,Ankit Joshi,VIP,Delhi,Delhi,2023-04-01,2023-04-05,Delivered,Credit Card,2,Samsung Galaxy S23,Electronics,Smartphones,1,69999,0.15,69999.00,10499.85,59499.15,55000.00,4499.15,4
+105,5,Ankit Joshi,VIP,Delhi,Delhi,2023-04-01,2023-04-05,Delivered,Credit Card,3,Sony Headphones WH,Electronics,Audio,1,14999,0.15,14999.00,2249.85,12749.15,9000.00,3749.15,4
+106,6,Divya Menon,New,Chennai,Tamil Nadu,2023-05-12,2023-05-17,Cancelled,COD,9,Harry Potter Set,Books,Fiction,3,1999,0.00,5997.00,0.00,5997.00,2400.00,3597.00,5
+107,7,Suresh Rao,Regular,Pune,Maharashtra,2023-06-08,2023-06-12,Delivered,UPI,10,Python Programming,Books,Tech Books,2,899,0.05,1798.00,89.90,1708.10,700.00,1008.10,4
+107,7,Suresh Rao,Regular,Pune,Maharashtra,2023-06-08,2023-06-12,Delivered,UPI,11,Yoga Mat Premium,Sports,Fitness,1,2499,0.05,2499.00,124.95,2374.05,1200.00,1174.05,4
+108,8,Meera Singh,VIP,Kolkata,West Bengal,2023-07-20,2023-07-24,Delivered,Credit Card,1,iPhone 14,Electronics,Smartphones,1,79999,0.10,79999.00,7999.90,71999.10,65000.00,6999.10,4
+108,8,Meera Singh,VIP,Kolkata,West Bengal,2023-07-20,2023-07-24,Delivered,Credit Card,4,Dell Laptop 15,Electronics,Laptops,1,65000,0.10,65000.00,6500.00,58500.00,50000.00,8500.00,4
+109,9,Vikram Reddy,New,Hyderabad,Telangana,2023-08-03,2023-08-07,Delivered,Debit Card,12,Cricket Bat SG,Sports,Cricket,2,3500,0.00,7000.00,0.00,7000.00,4000.00,3000.00,4
+110,10,Kavitha Iyer,Regular,Kochi,Kerala,2023-09-25,2023-09-29,Delivered,UPI,5,Nike Running Shoes,Apparel,Footwear,1,8999,0.05,8999.00,449.95,8549.05,5000.00,3549.05,4
+110,10,Kavitha Iyer,Regular,Kochi,Kerala,2023-09-25,2023-09-29,Delivered,UPI,6,Levi's Jeans 511,Apparel,Clothing,1,3999,0.05,3999.00,199.95,3799.05,2000.00,1799.05,4
+111,1,Ravi Kumar,VIP,Hyderabad,Telangana,2023-10-10,2023-10-14,Delivered,Credit Card,2,Samsung Galaxy S23,Electronics,Smartphones,1,69999,0.10,69999.00,6999.90,62999.10,55000.00,7999.10,4
+111,1,Ravi Kumar,VIP,Hyderabad,Telangana,2023-10-10,2023-10-14,Delivered,Credit Card,3,Sony Headphones WH,Electronics,Audio,1,14999,0.10,14999.00,1499.90,13499.10,9000.00,4499.10,4
+112,2,Priya Sharma,Regular,Mumbai,Maharashtra,2023-11-05,2023-11-08,Returned,UPI,7,Instant Pot 6Qt,Home & Kitchen,Appliances,1,8500,0.00,8500.00,0.00,8500.00,5500.00,3000.00,3
+113,5,Ankit Joshi,VIP,Delhi,Delhi,2023-11-20,2023-11-23,Delivered,Credit Card,1,iPhone 14,Electronics,Smartphones,2,79999,0.20,159998.00,31999.60,127998.40,130000.00,-2001.60,3
+113,5,Ankit Joshi,VIP,Delhi,Delhi,2023-11-20,2023-11-23,Delivered,Credit Card,4,Dell Laptop 15,Electronics,Laptops,1,65000,0.20,65000.00,13000.00,52000.00,50000.00,2000.00,3
+114,3,Arjun Nair,New,Bangalore,Karnataka,2023-12-01,2023-12-05,Delivered,COD,9,Harry Potter Set,Books,Fiction,2,1999,0.00,3998.00,0.00,3998.00,1600.00,2398.00,4
+114,3,Arjun Nair,New,Bangalore,Karnataka,2023-12-01,2023-12-05,Delivered,COD,10,Python Programming,Books,Tech Books,1,899,0.00,899.00,0.00,899.00,350.00,549.00,4
+115,8,Meera Singh,VIP,Kolkata,West Bengal,2023-12-18,2023-12-22,Delivered,Credit Card,1,iPhone 14,Electronics,Smartphones,1,79999,0.15,79999.00,11999.85,67999.15,65000.00,2999.15,4
+115,8,Meera Singh,VIP,Kolkata,West Bengal,2023-12-18,2023-12-22,Delivered,Credit Card,2,Samsung Galaxy S23,Electronics,Smartphones,1,69999,0.15,69999.00,10499.85,59499.15,55000.00,4499.15,4
